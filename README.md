@@ -1,5 +1,5 @@
 # AgriFusion
-AgriFusion is a digital agricultural platform that connects farmers and empowering Agriculture. it aims to leverage AI,  Chatbots and data analytics to improve farm productivity, enable access and provide real time insights via web, mobile and SMS channels.
+AgriFusion is a digital agricultural platform that connects farmers and empowers Agriculture. it aims to leverage AI,  Chatbots and data analytics to improve farm productivity, enable access and provide real time insights via web, mobile and SMS channels.
 -----
 ## Features
 ### AI Chatbot for agricultural recommendations and insights
