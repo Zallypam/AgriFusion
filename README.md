@@ -29,6 +29,9 @@ AgriFusion is a digital agricultural platform that connects farmers and empowers
 **Intergration** Google Gemni API(chatbot & Market Advisor), Open Metao API (Weather),Africa's Talking (SMS)
 ** Database ** Supabase
 
+### Project Demo Link
+https://agri-fusion-ai-lite-40c35683.base44.app
+
 
 
 
