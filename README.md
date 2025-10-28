@@ -1,3 +1,15 @@
+# Group Name
+AGRIFUSION
+
+# Team Members
+1. Michael Onyango - Team Lead and presentation lead
+2. Elizabeth Oyiela - Deputy lead /Technical lead
+3. Saleinca Berlin - Project Manager
+4. Esther Kiboi -Team Secretary
+5. Hyacinith Onchangu Orioki - Project Coordinator
+6. Eric Mwangi -Lead Engineer
+8. Nancy Nyaboke - Member
+
 # AgriFusion
 AgriFusion is a digital agricultural platform that connects farmers and empowers Agriculture. it aims to leverage AI,  Chatbots and data analytics to improve farm productivity, enable access and provide real time insights via web, mobile and SMS channels.
 -----
