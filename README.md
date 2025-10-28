@@ -4,7 +4,7 @@ AGRIFUSION
 # Team Members
 1. Michael Onyango - Team Lead and presentation lead
 2. Elizabeth Oyiela - Deputy lead /Project Manager
-3. Saleinca Berlin - Tecnical lead
+3. Saleinca Berlin - Technical lead
 4. Esther Kiboi -Team Secretary
 5. Hyacinith Onchangu Orioki - Project Coordinator
 6. Eric Mwangi -Lead Engineer
